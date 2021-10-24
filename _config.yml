@@ -1,5 +1,5 @@
 #url: http://localhost
-baseurl: ''
+baseurl: '/uachtar-demo/'
 
 # Site settings
 title: Uachtar
