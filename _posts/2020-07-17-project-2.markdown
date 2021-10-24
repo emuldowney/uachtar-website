@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Escape
+subtitle: Into Rice Crispie-land
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+modal-id: 2
+date: 2020-07-17
+img: rice-krispie-square.jpg
+thumbnail: rice-krispie-square-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: July 2020
+client:
+category: Cakes
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
