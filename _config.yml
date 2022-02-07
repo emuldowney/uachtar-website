@@ -4,7 +4,7 @@ baseurl: '/uachtar-demo/'
 # Site settings
 title: Uachtar
 email: oneillsinead20@gmail.com
-description: "Home baked treats for any occasion or event also available at Carlow Farmers Market every Saturday 9am-2pm. Based in Kilkenny/Carlow"
+description: "I'm a professional pastry chef and baker. I have worked many restaurants in Ireland and abroad, including Michelin star and 4AA Rosette award winners. I established Uachtar in 2020 with the goal of producing high quality home produce. From traditional brown bread to celebratory cakes, I bake everything in a home kitchen in Co. Kilkenny. You will regularly find me selling at the Carlow Farmer's Market."
 
 
 # Team names, titles and social links
@@ -13,20 +13,16 @@ people:
   pic: 1
   position: Lead Sweet-Things Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: instagram
       url: https://instagram.com/uachtar_
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/
-  - title: facebook
-    url:
+#  - title: twitter
+#    url: http://twitter.com/
+#  - title: facebook
+#    url:
   - title: instagram
     url: https://instagram.com/uachtar_
 
@@ -34,7 +30,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Carlow Farmer's Market
-  - line: Kilkenny City 
+  - line: Carlow Town
 
 # Build settings
 markdown: kramdown
